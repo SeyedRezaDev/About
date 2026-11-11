@@ -6,4 +6,4 @@
 
 - وب‌سایت: https://syloxstudio.ir
 - پروفایل: https://syloxstudio.ir/mahyar/
-- ایمیل: webmaster@syloxstudio.ir
+- ایمیل: seyedrezadev@gmail.com
